@@ -100,7 +100,8 @@ ul {
 
 /* Fake image, just for this example */
 .titleimg {
-  width: 100%;
+  width: auto;
+  height: auto;
   padding: 20px;
   align-content: center;
 }
@@ -109,6 +110,7 @@ ul {
   flex: 70%;
   background-color: white;
   padding: 20px;
+  height: auto;
   border-style: double;
   border-color: black;
 
