@@ -77,8 +77,9 @@ ul {
   text-decoration: none;
   display: block;
   background-color: #68ADA5;
-  border-color: black;
+  border-color: white;
   border-style: double;
+  border-radius: 25px;
   padding: 10px;
   color: white;
 }
