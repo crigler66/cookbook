@@ -83,6 +83,8 @@ ul {
   border-style: double;
   border-radius: 25px;
   padding: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   color: white;
 }
 
