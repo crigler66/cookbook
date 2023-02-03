@@ -16,8 +16,6 @@ ul {
 
 /* Header/logo Title */
 .header {
-  margin-left: 15px;
-  margin-right: 15px;
   margin-top: 15px;
   border-radius: 6px;
   border-color: white;
@@ -35,8 +33,6 @@ ul {
   align-items: center;
   border-color: white;
   border-style: double;
-  margin-left: 15px;
-  margin-right: 15px;
 }
 
 /* Style the navigation bar links */
@@ -152,6 +148,7 @@ ul {
   text-align: center;
   background: #ddd;
   border-radius: 6px;
+  margin-bottom: 10px;
 }
 
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
