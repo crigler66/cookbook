@@ -190,3 +190,22 @@ tr:nth-child(even) {
   background-color: #d6eeee;
   border-bottom: 1px solid #ddd;
 }
+
+th:nth-child(1) {
+  border-top-left-radius: 10px;
+}
+
+th:nth-child(3) {
+  border-top-right-radius: 10px;
+}
+
+tfoot td:nth-last-of-type(1) {
+  border-bottom-right-radius: 10px;
+}
+
+tfoot td:nth-last-of-type(3) {
+  border-bottom-left-radius: 10px;
+}
+tfoot {
+  background-color: #68ada5;
+}
